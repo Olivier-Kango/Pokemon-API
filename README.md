@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Pokemon with API
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: CSS, HTML, Javascript,
+- Frameworks: none;
+- Technologies used: API, Webpack;
 
 ## Live Demo (if available)
 
